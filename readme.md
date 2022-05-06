@@ -2,6 +2,8 @@
 
 <h2>Sobre o projeto</h2>
 
+<a href="https://gabdevlopez.github.io/Meu-decodificador-de-texto/">https://gabdevlopez.github.io/Meu-decodificador-de-texto/</a>
+
 <p>O projeto Decodificador de texto é um challenge do bootcamp Alura+Oracle da turma 2. O objetivo do projeto é aperfeiçoar os conhecimentos em HTML, CSS, JavaScript e responsividade.</p>
 
 <h2>Layout</h2>
