@@ -9,18 +9,20 @@
 <h3>Layout web</h3>
 
 <img src="src/Telas/web.png" width="700px">
-<br>
 <img src="src/Telas/webFinal.png" width="700px">
+<br>
 
-<h3>layout tablet</h3>
+<h3>Layout tablet</h3>
 
 <img src="src/Telas/tablet.png" width="450px">
 <img src="src/Telas/tabletFinal.png" width="450px">
+<br>
 
-<h3>layout mobile</h3>
+<h3>Layout mobile</h3>
 
 <img src="src/Telas/mobile.png" height="450px">
 <img src="src/Telas/mobileFinal.png" height="450px">
+<br>
 
 <h2>Tecnologias utilizadas no projeto</h2>
 
